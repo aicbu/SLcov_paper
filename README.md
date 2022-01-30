@@ -4,7 +4,7 @@ Chandima Jeewandara, Deshni Jayathilaka , Diyanath Ranasinghe, Nienyun Sharon Hs
 
 ---
 
-This repository contains code and data files for the paper above. The paper can be found [here](https://www.frontiersin.org/articles/722838).
+This repository contains code and data files for the paper above. The paper can be found [here](https://www.frontiersin.org/articles/10.3389/fmicb.2021.722838/full).
 
 
 ## Contents of repo
