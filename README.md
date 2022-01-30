@@ -4,7 +4,7 @@ Chandima Jeewandara, Deshni Jayathilaka , Diyanath Ranasinghe, Nienyun Sharon Hs
 
 ---
 
-This repository contains code and data files for the paper above. This paper is currently in peer review, and the preprint can be found [here](https://www.medrxiv.org/content/10.1101/2021.05.05.21256384v2).
+This repository contains code and data files for the paper above. The paper can be found [here](https://www.frontiersin.org/articles/722838).
 
 
 ## Contents of repo
